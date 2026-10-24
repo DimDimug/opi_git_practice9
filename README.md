@@ -1,4 +1,4 @@
-# MindFlow
+Project status: development in conflict-demo branch.
 Main features: tasks, notes, gamification
 Main features: tasks, notes, gamification
 Remote update: repository synchronized with GitHub.
