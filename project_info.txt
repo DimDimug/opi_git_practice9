@@ -1,1 +1,2 @@
 Student: Dmytro Ratushnyi
+Current stage: Git branching practice
